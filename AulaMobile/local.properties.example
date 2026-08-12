@@ -1,0 +1,6 @@
+# Copia este archivo como "local.properties" (en la raíz del proyecto)
+# y agrega ahí la ruta de tu SDK de Android y la URL base de la API
+# que el profesor entregó en clase.
+#
+# sdk.dir=/ruta/a/tu/Android/sdk
+# API_BASE_URL=https://tu-base-url-real.com/
